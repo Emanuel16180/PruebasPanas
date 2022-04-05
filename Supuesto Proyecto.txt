@@ -25,3 +25,5 @@ void CargarV(STringGrid *v, byte n){
 // imaginar que lo carga.
 
 }
+
+// un cambio
