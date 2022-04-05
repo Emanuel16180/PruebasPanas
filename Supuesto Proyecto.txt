@@ -28,3 +28,4 @@ void CargarV(STringGrid *v, byte n){
 
 // un cambio 
 //otro cambio
+// emanue soj pele
