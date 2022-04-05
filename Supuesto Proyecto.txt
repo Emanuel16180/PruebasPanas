@@ -1,6 +1,6 @@
 // Serie Fibonaci
 
-Cardinal Fibo(byte n) {
+Cardinal Fibo(byte n) { //soy locango
 	Cardinal x;
 	if (n == 1) {
 		x = 0;
