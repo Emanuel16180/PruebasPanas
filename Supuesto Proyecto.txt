@@ -1,0 +1,19 @@
+// Serie Fibo
+
+Cardinal Fibo(byte n) {
+	Cardinal x;
+	if (n == 1) {
+		x = 0;
+	}
+	else {
+		if (n == 2) {
+			x = 1;
+		}
+		else {
+			x = Fibo(n - 1) + Fibo(n - 2);
+			n--;
+		}
+	}
+
+	return x;
+}
