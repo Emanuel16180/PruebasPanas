@@ -26,4 +26,5 @@ void CargarV(STringGrid *v, byte n){
 
 }
 
-// un cambio
+// un cambio 
+//otro cambio
