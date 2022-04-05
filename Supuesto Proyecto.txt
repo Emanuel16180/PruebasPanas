@@ -17,3 +17,11 @@ Cardinal Fibo(byte n) {
 
 	return x;
 }
+
+// Voy a cargar el vector
+
+void CargarV(STringGrid *v, byte n){
+
+// imaginar que lo carga.
+
+}
