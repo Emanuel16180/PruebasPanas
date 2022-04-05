@@ -1,4 +1,4 @@
-// Serie Fibo
+// Serie Fibonaci
 
 Cardinal Fibo(byte n) {
 	Cardinal x;
