@@ -30,3 +30,6 @@ void CargarV(STringGrid *v, byte n){
 //otro cambio
 // emanue soj pele
 // noe soj pele tambien
+                      NO VOY A PODER ESTAR EN LA PRACTICA
+					  DE HOY EN LA NOCHE....TOY YENDO A LA IGLESIA
+					  ESPERO QUE ESTO SIRVA DE PRUEBA...XD
